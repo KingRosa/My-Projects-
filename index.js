@@ -12,26 +12,25 @@ const testimonials = [
     {
         title: "Amazing User Experience",
         para: "T REACT Demonstrates Hard Work, Communication and Accountability",
-        avatar: "assests/Cool Cat PFP.jpg", // Removed leading /
+        avatar: "assests/cool-cat.jpg", // Matches new file
         name: "Carl Murrow",
         role: "Director, Cat Inc."
     }, 
     {
         title: "The Ultimate Template Hub",
         para: "Incredibly easy to set up and completely modular. It saved our team weeks of design work!",
-        avatar: "assests/Snoopy PFP.jpg", // Removed leading /
+        avatar: "assests/snoopy.jpg", // Matches new file
         name: "Snoopy",
         role: "CEO"
     }, 
     {
         title: "Professionalism at its Finest",
         para: "Incredibly easy to set up and completely modular. It saved our team weeks of design work!",
-        avatar: "assests/My TimmyTom.jpg", // Removed leading /
+        avatar: "assests/timmy-tom.jpg", // Matches new file
         name: "Timmy Tom",
         role: "Freelance Worker"
     }
 ];
-
 let currentIndex = 0;
 
 // 3. Slider Core Logic
